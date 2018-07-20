@@ -2,7 +2,6 @@
 permalink: /
 title: "Bem-vindo ao portal do GPChain"
 excerpt: "Grupo de Pesquisa em Blockchain e Supply Chain "
-last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 
 feature_row:
